@@ -1,8 +1,8 @@
-drop database aula05;
+drop database bellaspa;
 
-create database aula05;
+create database bellaspa;
 
-use aula05;
+use bellaspa;
 
 create table artigos (
     idartigo int primary key auto_increment,
